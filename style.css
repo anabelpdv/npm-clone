@@ -1,0 +1,241 @@
+body {
+  margin: 0 auto;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 35px;
+}
+
+nav a {
+  color:rgba(255,255,255,0.8);
+  text-decoration: none; 
+}
+nav ul {
+  position: relative;
+  top:-19px;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+header{
+  background-image: url(images/city-scape.svg);
+  background-position: 0.0;
+  background-size: cover;
+  position:relative;
+  height:360px;
+}
+
+header a {
+  color:rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.header-container1{
+  width:100%;
+  height:10vh;
+  margin: 0 auto;
+}
+
+.logo{
+  width: 6%;
+  height: 4vh;
+  margin: 4px;
+  float:left;
+}
+
+.input {
+  width: 72%;
+  background-color:rgb(31,82,111); 
+  padding: 0 0 2px 8px;
+  height: 4vh;
+  border: 1px solid gray;
+  float: left;
+  margin: 0px;
+}
+
+.search-button{
+  border:1px solid gray;
+  background-color:rgb(31,82,111);
+  margin:0px;
+  width: 2.5%;
+  height:4.55vh; 
+  float:left;
+ 
+}
+
+.header-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 1vw 0 0;
+}
+
+.header-links li {
+  display: inline-block;
+  margin: 0 1vw;
+}
+
+.bear-logo{
+  width: 25%;
+  margin: 0px;
+}
+
+.header-container2{
+  width:40%;
+  position: relative;
+  left:20vw;
+
+}
+header p{
+  text-align: left;
+  padding: 0 60px 0 0;
+}
+
+.text {
+  color:rgba(255,255,255,0.8);
+}
+
+.signup-button{
+  color: white;
+  background-color: rgb(240,146,51);
+  border:none;
+  border-radius: 20px;
+  padding: 10px 20px 10px 20px;
+  margin:20px;
+}
+
+.middle-link{
+  float:right;
+}
+
+.img-city{
+  float:right;
+  width: 200px;
+}
+
+.clearfix {
+  clear: both;
+}
+.text-float{
+  float:right;
+  width:50%;
+  margin: 0;
+  padding:0px;
+}
+.collaboration-img{
+  width:40%;
+  margin:3vh 0 0 0;
+  padding:0px;
+}
+.collaboration-container{
+  width:65%;
+  height:300px;
+  margin: 0 auto;
+  padding:40px;
+}
+
+#collaboration {
+  background-color:rgb(39, 53, 71);
+  height:360px;
+  margin:0px;
+}
+
+.collaboration-link{
+  text-decoration:none;
+  color:white;
+}
+
+.collaboration-button{
+  border-radius: 20px;
+  color:white;
+  background-color: rgb(203, 56, 55);
+  border:none;
+  width: 130px;
+  height:28px;
+}
+
+#install{
+  background-image:url(/Users/ana/desktop/starter-code/images/forklift.svg);
+  background-size: cover;
+  height: 360px;
+}
+
+#install{
+  position:relative;
+}
+
+.install-text{
+  position:absolute;
+  top:5vh;
+  left:18vw;
+  width:25%;
+}
+
+.install-button{
+  border-radius: 20px;
+  color:white;
+  background-color: rgb(49, 68, 88);
+  border:none;
+  width: 100px;
+  height:28px;
+}
+
+.center-tools{
+  width: 60%;
+  margin:0 auto;
+  padding: 30px 0 0 0;
+}
+#tools{
+  height:360px;
+}
+
+#tools h2{
+  width: 70%;
+  margin:0 auto;
+}
+
+#tools p{
+  width: 100%;
+  margin: 20px 0auto 20px 0auto;  
+}
+
+.col{float:left;}
+.col-3{
+  width:30%;
+  margin: 10px 0 25px 0;
+}
+.col-middle {
+  margin-left:5%;
+  margin-right:5%;
+}
+.col-content{
+  text-align:center;
+}
+.col-container{
+  margin:0 auto;
+  width:70%;
+}
+h1{
+  font-size:2.5em;
+}
+
+h2{
+  font-size:1.8em;
+}
+
+h3{
+  font-size:1.6em;
+}
